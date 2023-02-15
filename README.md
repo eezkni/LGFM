@@ -2,6 +2,8 @@
 
 
 #### IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) 
+##### [[Paper-arXiv](https://arxiv.org/abs/2209.02285)] [[Paper-official](https://ieeexplore.ieee.org/abstract/document/10021986)] 
+
 Yue Liu, [Zhangkai Ni](https://eezkni.github.io/), Shiqi Wang, Hanli Wang, and Sam Kwong
 
 ## Introdcurion
