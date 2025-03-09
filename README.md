@@ -40,9 +40,9 @@ If this code/LGFM is useful for your research, please cite our paper:
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   volume={33},
   issue={8},
-	pages={4435-4440},
-	year={2023},
-	publisher={IEEE}
+  pages={4435-4440},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
