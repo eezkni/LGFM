@@ -38,8 +38,11 @@ If this code/LGFM is useful for your research, please cite our paper:
   title={High Dynamic Range Image Quality Assessment Based on Frequency Disparity},
   author={Liu, Yue and Ni, Zhangkai and Wang, Shiqi and Wang, Hanli and Kwong, Sam},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2023},
-  publisher={IEEE}
+  volume={33},
+  issue={8},
+	pages={4435-4440},
+	year={2023},
+	publisher={IEEE}
 }
 ```
 
