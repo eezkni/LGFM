@@ -8,7 +8,7 @@ Yue Liu, [Zhangkai Ni](https://eezkni.github.io/), Shiqi Wang, Hanli Wang, and S
 
 ## Introdcurion
 
-This website shares the codes of the "High Dynamic Range Image Quality Assessment Based on Frequency Disparity", IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2023. 
+This website shares the codes of the "High Dynamic Range Image Quality Assessment Based on Frequency Disparity", IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 33, no. 8, pp. 4435-4440, January 2023. 
 
 
 ## Abstract
