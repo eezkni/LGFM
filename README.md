@@ -24,6 +24,8 @@ IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2023
 
 This website shares the codes of the "High Dynamic Range Image Quality Assessment Based on Frequency Disparity", IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 33, no. 8, pp. 4435-4440, January 2023. [Paper-official](https://ieeexplore.ieee.org/abstract/document/10021986) | [Paper-arXiv](https://arxiv.org/abs/2209.02285)
 
+<div align=center><img src="./figures/flowchart.png" width = "100%" height = "100%" /></div>
+
 
 ## Abstract
 
@@ -37,13 +39,13 @@ cd LGFM
 Note that LGFM requires [HDR Toolbox](https://github.com/banterle/HDR_Toolbox).
 
 
-### Local-global frequency feature-based model for HDR image Quality Assessment
+<!-- ### Local-global frequency feature-based model for HDR image Quality Assessment -->
 <!-- <div align=center><img src="./figures/flowchart.png" width = "100%" height = "100%" /></div> -->
-<div align=center><img src="./figures/flowchart.png" width = "800" /></div>
+<!-- <div align=center><img src="./figures/flowchart.png" width = "800" /></div> -->
 
 ### Experimental Results
-<!-- <div align=center><img src="./figures/performance.png" width = "100%" height = "100%" /></div> -->
-<div align=center><img src="./figures/performance.png" width = "800" /></div>
+<div align=center><img src="./figures/performance.png" width = "100%" height = "100%" /></div>
+<!-- <div align=center><img src="./figures/performance.png" width = "800" /></div> -->
 
 
 
