@@ -4,7 +4,7 @@
 
 <h4 align="center"> 
 
-Yue Liu<sup>1</sup>, [Zhangkai Ni]<sup>2</sup>(https://eezkni.github.io/), Shiqi Wang<sup>1</sup>, Hanli Wang<sup>2</sup>, and Sam Kwong<sup>1</sup>
+Yue Liu<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>2</sup>, Shiqi Wang<sup>1</sup>, Hanli Wang<sup>2</sup>, and Sam Kwong<sup>1</sup>
 
 <sup>1</sup>City University of Hong Kong, <sup>2</sup>Tongji University
 
