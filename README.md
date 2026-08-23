@@ -4,7 +4,7 @@
 
 <h4 align="center"> 
 
-Yue Liu<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>2</sup>, [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=en)<sup>1</sup>, Hanli Wang(https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=en)<sup>2</sup>, and Sam Kwong](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=en)<sup>1</sup>
+Yue Liu<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>2</sup>, [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=en)<sup>1</sup>, Hanli Wang(https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=en)<sup>2</sup>, and [Sam Kwong](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=en)<sup>1</sup>
 
 <sup>1</sup>City University of Hong Kong, <sup>2</sup>Tongji University
 
