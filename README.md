@@ -1,14 +1,28 @@
-# High Dynamic Range Image Quality Assessment Based on Frequency Disparity
+<div align="center">
+  <h1>High Dynamic Range Image Quality Assessment Based on Frequency Disparity</h1>
+</div>
 
+<h4 align="center"> 
+
+Yue Liu<sup>1</sup>, [Zhangkai Ni]<sup>2</sup>(https://eezkni.github.io/), Shiqi Wang<sup>1</sup>, Hanli Wang<sup>2</sup>, and Sam Kwong<sup>1</sup>
+
+<sup>1</sup>City University of Hong Kong, <sup>2</sup>Tongji University
+
+IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2023
+</h4>
+
+
+
+<!-- # High Dynamic Range Image Quality Assessment Based on Frequency Disparity
 
 ### IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) 
-### [[Paper-arXiv](https://arxiv.org/abs/2209.02285)] [[Paper-official](https://ieeexplore.ieee.org/abstract/document/10021986)] 
+### [[Paper-arXiv](https://arxiv.org/abs/2209.02285)] [[Paper-official](https://ieeexplore.ieee.org/abstract/document/10021986)]  -->
 
 Yue Liu, [Zhangkai Ni](https://eezkni.github.io/), Shiqi Wang, Hanli Wang, and Sam Kwong
 
 ## Introdcurion
 
-This website shares the codes of the "High Dynamic Range Image Quality Assessment Based on Frequency Disparity", IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 33, no. 8, pp. 4435-4440, January 2023. 
+This website shares the codes of the "High Dynamic Range Image Quality Assessment Based on Frequency Disparity", IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 33, no. 8, pp. 4435-4440, January 2023. [Paper-official](https://ieeexplore.ieee.org/abstract/document/10021986) | [Paper-arXiv](https://arxiv.org/abs/2209.02285)
 
 
 ## Abstract
